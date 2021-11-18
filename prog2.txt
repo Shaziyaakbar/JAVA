@@ -1,0 +1,11 @@
+public class StringDemo {
+    
+public static void main(String args[]) {
+    String palindrome = "Dot saw Iwas Tod";
+    int len = palindrome.length();
+    System.out.println( "String Length is : " + len);
+    System.out.println( "String Length is : " + len );
+}
+}
+OUTPUT:-String Length is : 16
+String Length is : 16
